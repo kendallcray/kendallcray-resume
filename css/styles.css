@@ -3944,7 +3944,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #7DBA86;
+  color: #bd5d38;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3954,16 +3954,16 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #AFD9B5;
+  color: #974a2d;
 }
 .nav-link.disabled {
-  color: #7DBA86;
+  color: #6c757d;
   pointer-events: none;
   cursor: default;
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #7DBA86;
+  border-bottom: 1px solid #dee2e6;
 }
 .nav-tabs .nav-link {
   margin-bottom: -1px;
@@ -4001,7 +4001,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #AFD9B5;
+  background-color: #bd5d38;
 }
 
 .nav-fill > .nav-link,
@@ -11363,7 +11363,7 @@ p.lead {
   }
   #sideNav .navbar-brand .img-profile {
     max-width: 16rem;
-    max-height: 17rem;
+    max-height: 16rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
