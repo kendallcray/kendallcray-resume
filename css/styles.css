@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: 108, 177, 118;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -11347,7 +11347,7 @@ p.lead {
   #sideNav {
     padding-left: 0;
     padding-right: 0;
-    text-align: center;
+    text-align: right;
     position: fixed;
     top: 0;
     left: 0;
@@ -11363,7 +11363,7 @@ p.lead {
   }
   #sideNav .navbar-brand .img-profile {
     max-width: 16rem;
-    max-height: 16rem;
+    max-height: 11rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
